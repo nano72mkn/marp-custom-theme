@@ -4,10 +4,10 @@ theme: nano72mkn
 ---
 
 <!--
-	class: lead
+	class: title
 -->
 
-# 1st slide
+# いま、知っておくべき<br />アクセシビリティのお話
 
 イベント名などを書く
 2024/11/11
@@ -15,7 +15,17 @@ theme: nano72mkn
 ---
 
 <!--
-	class: invert
+	class:
+    - lead
+    - no1
+-->
+
+# 第１章をここから始めます
+
+---
+
+<!--
+	class: 
 -->
 
 # 2nd slide
